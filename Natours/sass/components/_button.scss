@@ -55,12 +55,12 @@
 .btn-text {
   &:link,
   &:visited {
-    font-size: $default-font-size;
+    font-size: 2rem;
     color: $color-primary;
     display: inline-block;
     text-decoration: none;
     border-bottom: .1rem solid $color-primary;
-    padding: .3rem;
+    padding: .7rem;
     transition: all .2s;
   }
 
