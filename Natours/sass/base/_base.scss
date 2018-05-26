@@ -5,10 +5,31 @@
 }
 
 html {
-  font-size: 62.5%;
+  //Define 1rem
+  font-size: 62.5%; // 1 rem = 10px
+
+  @include respond(big-desktop) {
+    font-size: 72.5%;
+  }
+
+  @include respond(tab-land) {
+    font-size: 60%; // 1rem = 9px
+  }
+
+  @include respond(tab-port) {
+    font-size: 50%; //1 rem = 12px
+  }
+
+  @include respond(phone) {
+    font-size: 30%;
+  }
 }
 
 body {
   padding: 3rem;
   box-sizing: border-box;
+
+  @include respond(tab-port) {
+    padding: 0;
+  }
 }
