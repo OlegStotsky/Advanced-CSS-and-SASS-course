@@ -32,7 +32,9 @@ Learned how to do resolution and density switching using `<picture>` and `<sourc
 
 # Scripts
 `npm run start` - start server(default port 3000).
+
 `npm run watch:sass` - compile sass into css in watch mode
+
 `npm run compile:sass` - compile sass into css
 
 
