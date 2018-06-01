@@ -1,4 +1,4 @@
-#Trillo project
+# Trillo project
 This is a second project i've built for Jonas Schmedtmann's course ["Advanced CSS and Sass: Flexbox, Grid, Animations and More!"](https://www.udemy.com/advanced-css-and-sass/). It's main purpose is learning flexbox.
 
 ## Preview
