@@ -2,7 +2,7 @@
 This is a second project i've built for Jonas Schmedtmann's course ["Advanced CSS and Sass: Flexbox, Grid, Animations and More!"](https://www.udemy.com/advanced-css-and-sass/). It's main purpose is learning flexbox.
 
 ## Preview
-[Link](https://young-brook-18951.herokuapp.com/)
+[Link](https://fathomless-springs-33683.herokuapp.com/)
 
 # Scripts
 `npm run start` - start server(default port 3000).
