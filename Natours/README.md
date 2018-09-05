@@ -2,7 +2,7 @@
 This is the project i've built for Jonas Schmedtmann's course ["Advanced CSS and Sass: Flexbox, Grid, Animations and More!"](https://www.udemy.com/advanced-css-and-sass/).
 
 ## Preview
-[Link](https://boiling-fjord-67770.herokuapp.com/)
+[Link](https://boiling-brook-69473.herokuapp.com/)
 
 ## Features
 
